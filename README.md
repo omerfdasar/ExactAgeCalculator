@@ -1,7 +1,4 @@
 
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # Project-001 : Exact_Age_Calculator (JS-01)
 
 ## Description
@@ -19,7 +16,6 @@ At the end of the this project, students will be able to;
    
 ## Problem Statement
 
-- You can use [this](https://github.com/clarusway/clarusway-full-stack-10-21/tree/main/javascript/Projects/JS%20-%20Project-01_Exact_Age_Calculator) template for project.
 
 - Create a calculator page following the design and make the calculation with using of DOM and Event in JS.
 
@@ -30,6 +26,5 @@ At the end of the this project, students will be able to;
    - After calculation of age, the background image will be changed and age countdown should be continued(internal).
    - If I select a date after today, the page should warn me about it.
 
-🔥 You don’t need to create a new html template in this project, you can use this template. We will be concerned in javascript side.
 
 
