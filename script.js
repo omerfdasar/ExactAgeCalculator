@@ -82,6 +82,11 @@ const updateCountdown = () => {
   let secondOfAge = currentSecond - dobSecond;
 
   //   if the months,days,hours,minute is bigger than current months it returns negative. I hereby handle this problem.
+
+  if (secondOfAge < 0) {
+    secondOfAge += 60;
+    minuteOfAge--;
+  }
   if (minuteOfAge < 0) {
     minuteOfAge += 60;
     hourOfAge--;
